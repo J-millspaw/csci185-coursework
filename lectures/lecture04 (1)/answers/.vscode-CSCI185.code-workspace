@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\..\\..\\.vscode"
+		},
+		{
+			"path": "..\\..\\bakery-example"
+		},
+		{
+			"path": "..\\..\\exercise"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "exercise"
+	}
+}
